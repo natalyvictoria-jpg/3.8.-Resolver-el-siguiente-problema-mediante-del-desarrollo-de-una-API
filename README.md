@@ -112,3 +112,5 @@ PUT /api/tareas/1
   "estado": "completada"
 }
 ```
+
+![pruebas](https://github.com/natalyvictoria-jpg/3.7.-Resolver-problema-mediante-una-API/raw/main/ab.jpeg)
