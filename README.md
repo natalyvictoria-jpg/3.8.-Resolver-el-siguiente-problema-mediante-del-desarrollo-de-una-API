@@ -113,4 +113,4 @@ PUT /api/tareas/1
 }
 ```
 
-![pruebas](https://github.com/natalyvictoria-jpg/3.7.-Resolver-problema-mediante-una-API/raw/main/ab.jpeg)
+![pruebas](https://github.com/natalyvictoria-jpg/3.8.-Resolver-el-siguiente-problema-mediante-del-desarrollo-de-una-API/raw/main/ab.jpeg)
