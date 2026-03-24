@@ -114,3 +114,13 @@ PUT /api/tareas/1
 ```
 
 ![pruebas](https://github.com/natalyvictoria-jpg/3.8.-Resolver-el-siguiente-problema-mediante-del-desarrollo-de-una-API/raw/main/ab.jpeg)
+
+![pruebas](https://github.com/natalyvictoria-jpg/3.8.-Resolver-el-siguiente-problema-mediante-del-desarrollo-de-una-API/raw/main/abc.jpeg)
+
+![pruebas](https://github.com/natalyvictoria-jpg/3.8.-Resolver-el-siguiente-problema-mediante-del-desarrollo-de-una-API/raw/main/abcd.jpeg)
+
+![pruebas](https://github.com/natalyvictoria-jpg/3.8.-Resolver-el-siguiente-problema-mediante-del-desarrollo-de-una-API/raw/main/abcde.jpeg)
+
+![pruebas](https://github.com/natalyvictoria-jpg/3.8.-Resolver-el-siguiente-problema-mediante-del-desarrollo-de-una-API/raw/main/abcdef.jpeg)
+
+![pruebas](https://github.com/natalyvictoria-jpg/3.8.-Resolver-el-siguiente-problema-mediante-del-desarrollo-de-una-API/raw/main/abcdefg.jpeg)
